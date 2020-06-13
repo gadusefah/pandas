@@ -3,6 +3,7 @@ magic = (b"\x00\x00\x00\x00\x00\x00\x00\x00" +
          b"\xb3\x14\x11\xcf\xbd\x92\x08\x00" +
          b"\x09\xc7\x31\x8c\x18\x1f\x10\x11")
 
+#hello world
 align_1_checker_value = b'3'
 align_1_offset = 32
 align_1_length = 1
